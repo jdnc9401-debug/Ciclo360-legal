@@ -72,9 +72,9 @@ Bienvenido a la sección legal de Ciclo360. Si no eres redirigido automáticamen
 - 🇩🇪 [Deutsch](/Ciclo360-legal/?lang=de&doc={{ params.doc | default: "privacy" }})
 - 🇵🇹 [Português](/Ciclo360-legal/?lang=pt&doc={{ params.doc | default: "privacy" }})
 - 🇮🇹 [Italiano](/Ciclo360-legal/?lang=it&doc={{ params.doc | default: "privacy" }})
-- 🇰🇷 [한국어](/Ciclo360-legal/?lang=it&doc={{ params.doc | default: "privacy" }})
-- 🇨🇳 [中文](/Ciclo360-legal/?lang=it&doc={{ params.doc | default: "privacy" }})
-- 🇯🇵 [日本語](/Ciclo360-legal/?lang=it&doc={{ params.doc | default: "privacy" }})
+- 🇰🇷 [한국어](/Ciclo360-legal/?lang=kr&doc={{ params.doc | default: "privacy" }})
+- 🇨🇳 [中文](/Ciclo360-legal/?lang=cn&doc={{ params.doc | default: "privacy" }})
+- 🇯🇵 [日本語](/Ciclo360-legal/?lang=jp&doc={{ params.doc | default: "privacy" }})
 
 ---
 
